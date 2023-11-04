@@ -7,7 +7,7 @@ var UrduMarks = +prompt("Enter the marks obtained in Urdu:")
 var ComputerMarks= +prompt("Enter the marks obtained in Computer:")
 
 
-var totalMarks = 600;
+var totalMarks = 550;
 var MarksObtained = ChemistryMarks + PhysicsMarks + MathsMarks + EnglishMarks + UrduMarks +ComputerMarks
 var percentage = ( MarksObtained / totalMarks ) * 100
 
